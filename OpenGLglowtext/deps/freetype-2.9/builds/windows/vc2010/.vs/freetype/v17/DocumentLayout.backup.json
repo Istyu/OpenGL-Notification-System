@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSvisualStudio_source\\cod4_patch_project\\3final\\patch2_cod4\\patchx_cod4\\deps\\freetype-2.9\\builds\\windows\\vc2010\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
