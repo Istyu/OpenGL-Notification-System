@@ -104,9 +104,9 @@ OpenGLglowtext/
 
 ## Media
 
-![](https://github.com/Istyu/OpenGL-Notification-System/media/MW2_Notification_System.gif)
-![](https://github.com/Istyu/OpenGL-Notification-System/media/killstreak.png)
-![](https://github.com/Istyu/OpenGL-Notification-System/media/splash.png)
+![](https://github.com/Istyu/OpenGL-Notification-System/tree/master/media/MW2_Notification_System.gif)
+![](https://github.com/Istyu/OpenGL-Notification-System/tree/master/media/killstreak.png)
+![](https://github.com/Istyu/OpenGL-Notification-System/tree/master/media/splash.png)
 
 ---
 
