@@ -100,3 +100,12 @@ OpenGLglowtext/
         │   └── text.vert
         └── freetype.dll
 ```
+
+---
+
+## Clone this repo
+
+```bash
+git clone --recurse-submodules https://github.com/Istyu/OpenGL-Notification-System.git
+git submodule update --init --recursive
+```
