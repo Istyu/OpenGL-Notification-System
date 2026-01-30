@@ -102,6 +102,15 @@ OpenGLglowtext/
 ```
 ---
 
+## How to use
+
+- Press `Enter` for the splash notify
+- Press `D` for the killstreak notify
+- Press `S` for the typewriter (pulsefx) notify
+- Press `A` for the pulsetext notify
+
+---
+
 ## Media
 
 ![](https://github.com/Istyu/OpenGL-Notification-System/blob/master/media/MW2_Notification_System.gif)
